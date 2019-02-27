@@ -6,14 +6,14 @@ Este projeto é um código aberto para integrar o workspace do [Watson Assistant
 
 **Clique no botão abaixo para importar o projeto** dentro da sua conta do IBM Cloud. Caso ainda não tenha, crie uma nova conta (não há necessidade de colocar o cartão de crédito para usar a versão **Lite**).
 
-[![Deploy to IBM Cloud](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/victorshinya/watson-assistant-facebook)
+[![Deploy to IBM Cloud](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/Nambio/watson-assistant-facebook)
 
 ## Execute o projeto localmente
 
 1. Clone o projeto na sua máquina
 
 ```sh
-git clone https://github.com/victorshinya/watson-assistant-facebook.git
+git clone https://github.com/Nambio/watson-assistant-facebook.git
 ```
 
 2. Acesse a pasta do projeto
