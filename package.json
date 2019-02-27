@@ -1,0 +1,20 @@
+{
+  "name": "watson-assistant-facebook",
+  "version": "1.1.0",
+  "description": "App usado para subir um Workspace do Watson Assistant em múltiplos canais, como Slack, Facebook e Twillio",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "botkit": "^0.6.15",
+    "botkit-middleware-watson": "^1.7.1",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": "https://github.com/victorshinya/botkit-for-watson",
+  "author": "Victor Kazuyuki Shinya <vshinya@br.ibm.com>",
+  "license": "Apache-2.0"
+}
